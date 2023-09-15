@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<expressions>
+  <addition id="1">
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+  </addition>
+  <subtraction id="2">
+    <minuend>3</minuend>
+    <sutrahend>2</sutrahend>
+  </subtraction>
+  <multiplication id="3">
+    <factor>5</factor>
+    <factor>6</factor>
+    <factor>8</factor>
+  </multiplication>
+  <division id="4">
+    <dividend>54</dividend>
+    <divisior>9</divisior>
+  </division>
+</expressions>
+
